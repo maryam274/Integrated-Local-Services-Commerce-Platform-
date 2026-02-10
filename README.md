@@ -4,5 +4,5 @@
 2-Ghada saber fares - UI-UX designer, Front end developer
 3-Shrouk Mohamed Fathy - UI UX designer, Graphic Designer & Front end developer
 4-Mariam Mohammed Elsadek - UI UX Designer
-5-
-6-
+5-Nermeen Hamdy
+6-Reham
