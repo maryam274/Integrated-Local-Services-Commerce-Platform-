@@ -19,7 +19,6 @@ Ahmed Mohamed Abozyada
 
 ##  Project Overview
 A smart application that acts as an integrated platform connecting users with local service and product providers based on geographic location. It allows users to find reliable service providers who are physically nearby, offering services such as plumbing, electrical work, carpentry, beauty treatments, home-cooked meals, handicrafts, and event planning. The application provides professional profiles for service providers, including service descriptions, base prices, portfolios, customer reviews, and coverage areas, thus enhancing transparency and trust.
-
 The application supports a live chat system with the ability to send photos and videos for initial problem diagnosis, as well as an add-ons system with clear pricing before payment. It functions as both a marketplace for services and products, offering electronic payment and a review system. It also allows users to post requests for specific services not listed in the categories, connecting them with nearby service providers who can fulfill them. The revenue model is based on a commission for each transaction processed through the platform, aiming to support the local economy and regulate the informal services market.
 ---
 
