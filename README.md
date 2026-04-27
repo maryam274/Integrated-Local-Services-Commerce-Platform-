@@ -23,10 +23,14 @@ The application supports a live chat system with the ability to send photos and 
 ---
 
 ## Project Objectives
-- Objective 1  
-- Objective 2 
-- Objective 3  
-- Objective 4  
+Create a smart platform that connects users with nearby service providers and local product sellers.
+Make finding trusted services and products faster and easier through location-based search.
+Increase transparency with clear pricing, reviews, and professional business profiles.
+Improve communication between users and business owners through direct chat and media sharing.
+Support small businesses and freelancers by helping them reach more customers.
+Provide a secure and convenient in-app payment experience.
+Save users time and effort compared to informal channels like social media groups.
+Build a scalable digital solution that strengthens the local economy.
 
 ---
 
